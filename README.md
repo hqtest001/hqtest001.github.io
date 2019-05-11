@@ -44,8 +44,8 @@
 ### 专业技能（Professional skills）
 1. 熟悉windows系统安装以及计算机软硬件问题维护；
 2. 熟悉Linux系统安装和基本的操作命令以及简单的shell；
-3．熟悉ESXI虚拟机服务器安装、liunx模板导入以及日常维护；
-4．基本熟悉zabbix监控搭建以及基本监控参数设置；
+3. 熟悉ESXI虚拟机服务器安装、liunx模板导入以及日常维护；
+4. 基本熟悉zabbix监控搭建以及基本监控参数设置；
 5. 熟悉centos下nginx/php/mysql环境搭建；
 6. 熟悉linux下smb、ftp、svn服务搭建；
 7. 熟悉MySQL，能熟练运用SQL语句进行基本的增删查改操作；
